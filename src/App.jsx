@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import.meta.env.VITE_API_URL
 import CreateIdea from './components/CreateIdea';
 import IdeaList from './components/IdeaList';
 import { FaLightbulb } from 'react-icons/fa';
